@@ -1,5 +1,5 @@
 # Bootcamp Acceleration Program - Python
-## [Data Structures and Algorithms - Insertion Sort Project](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/binary-search-tree-proje)
+## [Data Structures and Algorithms - Binary Search Tree Project](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/binary-search-tree-proje)
 
  - Root = 4
  - 7 > 4. Bu yüzden 4'ün sağına.
